@@ -2,6 +2,123 @@
 library(tidyverse)
 
 
+# Ejemplos: Manipulación ----
+
+# Datos ejemplo
+df.ejem.long <- df.ejem %>% 
+  gather(key = year, value = tasa, `2005`:`2007`)
+# vemos las primeras líneas de nuestros datos alargados 
+df.ejem.long %>% head
+
+# Spread
+df.ejem.spread <- df.ejem.long %>% 
+  tidyr::spread(mes, tasa)
+df.ejem.spread %>% head
+
+# Unite
+df.ejem.unite <- df.ejem.long %>% 
+  unite(col = month_year, c(mes, year), sep = "_")
+df.ejem.unite %>% head
+
+# Separate
+df.ejem.separate <- df.ejem.unite %>% 
+  separate(col = month_year, c('mes.num', 'mes', 'year'), sep = "_")
+df.ejem.separate %>% head
+
+df_ej <- data.frame(genero = c("mujer", "hombre", "mujer", "mujer", "hombre"), 
+                    estatura = c(1.65, 1.80, 1.70, 1.60, 1.67))
+
+
+# Filter, select y arrange
+df_ej %>% filter(genero == "mujer")
+
+df_ej %>% select(genero)
+
+df_ej %>% select(starts_with("g"))
+
+df_ej %>% arrange(desc(estatura))
+
+df_ej %>% mutate(estatura_cm = estatura * 100) 
+
+df_ej %>% dplyr::summarise(promedio = mean(estatura))
+
+
+# Ejemplos: Visualización ----
+
+# Datos ejemplo
+mpg %>% head
+
+summary(mpg$displ)
+summary(mpg$hwy)
+
+# Capa base
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) 
+
+# Capa con  objetos geométrico
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
+  geom_point() 
+
+table(mpg$class)
+ggplot(mpg, aes(x = displ, y = hwy,
+                color = class)) + 
+  geom_point() 
+
+# Suavizamiento
+ggplot(mpg, aes(x = displ, y = hwy)) + 
+  geom_point() + 
+  geom_smooth()
+
+ggplot(mpg, aes(x = displ, y = hwy)) + 
+  geom_point() + 
+  geom_smooth(method = "lm")
+
+# Boxplot
+ggplot(mpg, aes(x = class, y = hwy)) + 
+  geom_boxplot(width = .3)
+
+ggplot(mpg, aes(class, hwy)) + 
+  geom_violin(aes(fill = class))
+
+ggplot(mpg, aes(class, hwy)) + 
+  geom_violin(aes(fill = class)) +
+  geom_boxplot(width = .3)
+
+# Histograma
+ggplot(mpg, aes(hwy)) + 
+  geom_histogram(bins = 5)
+
+ggplot(mpg, aes(hwy)) + 
+  geom_histogram(bins = 20)
+
+ggplot(mpg, aes(hwy)) + 
+  geom_density( color = "blue")
+
+# Barras
+ggplot(mpg, aes(class)) + 
+  geom_bar(stat = "count")
+
+tab <- mpg %>% 
+  group_by(class) %>% 
+  summarise(freq = n())
+tab %>% head
+
+ggplot(tab, aes(x = class, y = freq)) +
+  geom_bar(stat = "identity")
+
+# Series de Tiempo
+str(economics)
+class(economics$date)
+summary(economics$date)
+
+ggplot(economics, aes(date, unemploy/pop)) + 
+  geom_line()
+
+
+
+
+
+
+
 # 1. tidy datos medicos simulados ----
 
 # http://barryrowlingson.github.io/hadleyverse/#16
