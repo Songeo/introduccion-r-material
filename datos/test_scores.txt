@@ -1,0 +1,7 @@
+person  time  test1  test2
+  Greg   pre     80     83
+  Greg  post     82     80
+ Sally   pre     77     78
+ Sally  post     88     90
+   Sue   pre     85     86
+   Sue  post     76     75
