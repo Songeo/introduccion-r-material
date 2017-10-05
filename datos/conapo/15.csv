@@ -1,0 +1,126 @@
+CVE,CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,sin_primaria,analfabeta,con_hacinamiento
+15001,15,México,001,Acambay de Ruíz Castañeda,31.91,13.34,48.07
+15002,15,México,002,Acolman,11.78,2.9,43.71
+15003,15,México,003,Aculco,30.5,11.28,49.83
+15004,15,México,004,Almoloya de Alquisiras,31.89,11.56,43.49
+15005,15,México,005,Almoloya de Juárez,25.63,9.1,50.45
+15006,15,México,006,Almoloya del Río,17.34,4.75,47.01
+15007,15,México,007,Amanalco,37.04,14.55,53.13
+15008,15,México,008,Amatepec,38.47,19.23,37.48
+15009,15,México,009,Amecameca,13.23,3.62,45.33
+15010,15,México,010,Apaxco,18.78,5.08,36.39
+15011,15,México,011,Atenco,13.35,3.46,48.34
+15012,15,México,012,Atizapán,16.53,5.44,52.14
+15013,15,México,013,Atizapán de Zaragoza,10.41,2.77,28.16
+15014,15,México,014,Atlacomulco,21.03,8.9,43.7
+15015,15,México,015,Atlautla,22.15,6.91,52.31
+15016,15,México,016,Axapusco,21.47,6.98,46.75
+15017,15,México,017,Ayapango,14.54,3.43,45.92
+15018,15,México,018,Calimaya,14.63,5.31,42.91
+15019,15,México,019,Capulhuac,12.83,3.28,43.31
+15020,15,México,020,Coacalco de Berriozábal,4.94,0.97,18.37
+15021,15,México,021,Coatepec Harinas,35.49,12.19,48.14
+15022,15,México,022,Cocotitlán,11.82,2.6,42.28
+15023,15,México,023,Coyotepec,15.63,5.11,46.91
+15024,15,México,024,Cuautitlán,6.19,1.43,25.99
+15025,15,México,025,Chalco,14.42,4.24,46.62
+15026,15,México,026,Chapa de Mota,30.23,11.51,51.65
+15027,15,México,027,Chapultepec,9.45,2.12,40.99
+15028,15,México,028,Chiautla,12.88,2.72,42.88
+15029,15,México,029,Chicoloapan,9.65,2.67,42.46
+15030,15,México,030,Chiconcuac,11.23,2.36,43.72
+15031,15,México,031,Chimalhuacán,16.83,4.54,54.21
+15032,15,México,032,Donato Guerra,42.3,16.88,60.68
+15033,15,México,033,Ecatepec de Morelos,11.01,2.71,33.87
+15034,15,México,034,Ecatzingo,25.77,8.35,58.41
+15035,15,México,035,Huehuetoca,9.93,2.62,43.69
+15036,15,México,036,Hueypoxtla,22.92,8.15,47.62
+15037,15,México,037,Huixquilucan,11.05,2.94,31.97
+15038,15,México,038,Isidro Fabela,21.04,6.79,44.18
+15039,15,México,039,Ixtapaluca,10.61,2.81,38.28
+15040,15,México,040,Ixtapan de la Sal,25.38,9.31,42.39
+15041,15,México,041,Ixtapan del Oro,39.9,13.26,50.46
+15042,15,México,042,Ixtlahuaca,24.78,11.26,48.34
+15043,15,México,043,Xalatlaco,18.59,5.2,53.58
+15044,15,México,044,Jaltenco,8.89,1.7,28.72
+15045,15,México,045,Jilotepec,23.73,7.27,43.79
+15046,15,México,046,Jilotzingo,17.5,5.18,43.3
+15047,15,México,047,Jiquipilco,28.3,11.74,50.28
+15048,15,México,048,Jocotitlán,20.54,7.33,43.82
+15049,15,México,049,Joquicingo,24.23,7.44,51.81
+15050,15,México,050,Juchitepec,21.54,6.44,51.8
+15051,15,México,051,Lerma,14.23,5.08,38.78
+15052,15,México,052,Malinalco,30.57,11.76,48.51
+15053,15,México,053,Melchor Ocampo,12.84,2.84,44.36
+15054,15,México,054,Metepec,7.16,1.85,21.8
+15055,15,México,055,Mexicaltzingo,12.13,3.85,39.58
+15056,15,México,056,Morelos,34.47,16.52,50.32
+15057,15,México,057,Naucalpan de Juárez,11.5,3,35.54
+15058,15,México,058,Nezahualcóyotl,11.5,2.74,36.28
+15059,15,México,059,Nextlalpan,14.64,3.65,51.23
+15060,15,México,060,Nicolás Romero,13.8,4.12,38.85
+15061,15,México,061,Nopaltepec,19.37,6.08,42.01
+15062,15,México,062,Ocoyoacac,12.9,4,40.27
+15063,15,México,063,Ocuilan,30.77,10.47,52.69
+15064,15,México,064,El Oro,25.43,10.67,48.37
+15065,15,México,065,Otumba,18.95,5.74,45.67
+15066,15,México,066,Otzoloapan,38.43,18.61,43.77
+15067,15,México,067,Otzolotepec,24.17,9.48,50.75
+15068,15,México,068,Ozumba,16.97,4.34,49.17
+15069,15,México,069,Papalotla,11.12,2.92,39.13
+15070,15,México,070,La Paz,14.41,3.73,46.7
+15071,15,México,071,Polotitlán,23.33,6.81,38.12
+15072,15,México,072,Rayón,13.91,4.74,43.94
+15073,15,México,073,San Antonio la Isla,10.05,3.11,35.34
+15074,15,México,074,San Felipe del Progreso,37.74,16.42,58.5
+15075,15,México,075,San Martín de las Pirámides,15.16,3.95,41.71
+15076,15,México,076,San Mateo Atenco,11.12,3.46,39.57
+15077,15,México,077,San Simón de Guerrero,28.69,12.28,47.1
+15078,15,México,078,Santo Tomás,29.56,11.16,47.13
+15079,15,México,079,Soyaniquilpan de Juárez,23.22,5.72,40.35
+15080,15,México,080,Sultepec,40.97,22.63,49.8
+15081,15,México,081,Tecámac,8.21,1.96,33.81
+15082,15,México,082,Tejupilco,32.45,15.45,44.53
+15083,15,México,083,Temamatla,11.96,2.98,45.62
+15084,15,México,084,Temascalapa,19.21,5.22,47.2
+15085,15,México,085,Temascalcingo,32.9,15.4,46.5
+15086,15,México,086,Temascaltepec,31.52,12.46,52.66
+15087,15,México,087,Temoaya,31.35,10.86,56.46
+15088,15,México,088,Tenancingo,21.67,7.4,46.72
+15089,15,México,089,Tenango del Aire,15.19,3.55,46.15
+15090,15,México,090,Tenango del Valle,20.98,8.19,45.55
+15091,15,México,091,Teoloyucan,13.66,3.83,42.12
+15092,15,México,092,Teotihuacán,13.25,3.47,40.75
+15093,15,México,093,Tepetlaoxtoc,16.04,4.25,44.8
+15094,15,México,094,Tepetlixpa,19.74,5.15,47.78
+15095,15,México,095,Tepotzotlán,13.74,4.06,37.99
+15096,15,México,096,Tequixquiac,18.51,3.86,37.75
+15097,15,México,097,Texcaltitlán,30.47,11.31,51.77
+15098,15,México,098,Texcalyacac,15.16,3.54,42
+15099,15,México,099,Texcoco,11.49,3.18,35.5
+15100,15,México,100,Tezoyuca,13.66,3.52,50.24
+15101,15,México,101,Tianguistenco,15.96,4.89,47.39
+15102,15,México,102,Timilpan,27.6,9.16,40.1
+15103,15,México,103,Tlalmanalco,10.43,2.83,39.84
+15104,15,México,104,Tlalnepantla de Baz,10.17,2.57,28.95
+15105,15,México,105,Tlatlaya,37.7,21.25,42.15
+15106,15,México,106,Toluca,12.2,3.99,30.59
+15107,15,México,107,Tonatico,28.21,7.19,33.29
+15108,15,México,108,Tultepec,12.56,3.23,38.61
+15109,15,México,109,Tultitlán,8.8,2.14,29.03
+15110,15,México,110,Valle de Bravo,24.59,8.38,43.83
+15111,15,México,111,Villa de Allende,36.76,15.3,60.93
+15112,15,México,112,Villa del Carbón,30.45,12.14,52.1
+15113,15,México,113,Villa Guerrero,33.29,9.06,50.11
+15114,15,México,114,Villa Victoria,40.81,17.35,59.99
+15115,15,México,115,Xonacatlán,17.42,6.38,44.66
+15116,15,México,116,Zacazonapan,33.56,13.31,45.33
+15117,15,México,117,Zacualpan,39.15,14.21,51.05
+15118,15,México,118,Zinacantepec,17.19,6.31,41.98
+15119,15,México,119,Zumpahuacán,37.06,14.49,53.52
+15120,15,México,120,Zumpango,14.32,4.1,45.03
+15121,15,México,121,Cuautitlán Izcalli,7,1.61,20.91
+15122,15,México,122,Valle de Chalco Solidaridad,16.7,4.56,52.03
+15123,15,México,123,Luvianos,42.17,21.28,46.05
+15124,15,México,124,San José del Rincón,43.49,19.66,66.36
+15125,15,México,125,Tonanitla,13.33,3.02,48.28

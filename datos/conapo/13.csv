@@ -1,0 +1,85 @@
+CVE,CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,sin_primaria,analfabeta,con_hacinamiento
+13001,13,Hidalgo,001,Acatlán,37.38,15.57,44.27
+13002,13,Hidalgo,002,Acaxochitlán,40.6,23.86,63.19
+13003,13,Hidalgo,003,Actopan,16.11,5.71,35.05
+13004,13,Hidalgo,004,Agua Blanca de Iturbide,36.32,17.44,46.67
+13005,13,Hidalgo,005,Ajacuba,24.75,8.48,31.77
+13006,13,Hidalgo,006,Alfajayucan,30.43,13.38,38.07
+13007,13,Hidalgo,007,Almoloya,23.82,10.32,47.57
+13008,13,Hidalgo,008,Apan,18.68,6.99,37.56
+13009,13,Hidalgo,009,El Arenal,19.36,6.91,42.63
+13010,13,Hidalgo,010,Atitalaquia,14.5,3.94,29.99
+13011,13,Hidalgo,011,Atlapexco,37.06,26.83,48.59
+13012,13,Hidalgo,012,Atotonilco el Grande,30.65,11.71,40.98
+13013,13,Hidalgo,013,Atotonilco de Tula,16.69,4.47,32.71
+13014,13,Hidalgo,014,Calnali,44.26,23.75,45.23
+13015,13,Hidalgo,015,Cardonal,27.85,15.62,38.48
+13016,13,Hidalgo,016,Cuautepec de Hinojosa,28.68,11.86,46.55
+13017,13,Hidalgo,017,Chapantongo,31.66,11.13,38.58
+13018,13,Hidalgo,018,Chapulhuacán,39.18,20.48,48.28
+13019,13,Hidalgo,019,Chilcuautla,24.26,11.09,37.91
+13020,13,Hidalgo,020,Eloxochitlán,37.69,16.03,35.29
+13021,13,Hidalgo,021,Emiliano Zapata,15.92,5.1,36.48
+13022,13,Hidalgo,022,Epazoyucan,20.57,6.76,37.64
+13023,13,Hidalgo,023,Francisco I. Madero,18.15,7.13,33.29
+13024,13,Hidalgo,024,Huasca de Ocampo,31.21,9.56,44.56
+13025,13,Hidalgo,025,Huautla,39,23.22,38.46
+13026,13,Hidalgo,026,Huazalingo,39.5,24.81,55.88
+13027,13,Hidalgo,027,Huehuetla,50.81,33.5,58
+13028,13,Hidalgo,028,Huejutla de Reyes,32.2,21.55,47.53
+13029,13,Hidalgo,029,Huichapan,23.99,8.01,37.04
+13030,13,Hidalgo,030,Ixmiquilpan,21.01,9.88,37.22
+13031,13,Hidalgo,031,Jacala de Ledezma,37.35,16.7,33.1
+13032,13,Hidalgo,032,Jaltocán,40.23,30.19,48.41
+13033,13,Hidalgo,033,Juárez Hidalgo,37.99,16.54,36.14
+13034,13,Hidalgo,034,Lolotla,36.32,20.45,49.55
+13035,13,Hidalgo,035,Metepec,28.82,11.66,48.45
+13036,13,Hidalgo,036,San Agustín Metzquititlán,25.85,8.33,39.92
+13037,13,Hidalgo,037,Metztitlán,36.36,15.52,39.77
+13038,13,Hidalgo,038,Mineral del Chico,31.64,13.33,43.4
+13039,13,Hidalgo,039,Mineral del Monte,14.07,4.21,39
+13040,13,Hidalgo,040,La Misión,49.55,24.74,42.42
+13041,13,Hidalgo,041,Mixquiahuala de Juárez,18.39,6.51,33.51
+13042,13,Hidalgo,042,Molango de Escamilla,32.59,13.7,42.65
+13043,13,Hidalgo,043,Nicolás Flores,30.94,15.21,42.97
+13044,13,Hidalgo,044,Nopala de Villagrán,31.87,9.57,37.09
+13045,13,Hidalgo,045,Omitlán de Juárez,24.01,9.53,45.14
+13046,13,Hidalgo,046,San Felipe Orizatlán,42.89,26.86,46.39
+13047,13,Hidalgo,047,Pacula,45.76,21.06,38.85
+13048,13,Hidalgo,048,Pachuca de Soto,9.32,2.87,23.66
+13049,13,Hidalgo,049,Pisaflores,41.06,22.03,52.19
+13050,13,Hidalgo,050,Progreso de Obregón,15.89,5.52,32.39
+13051,13,Hidalgo,051,Mineral de la Reforma,6.75,1.89,22.76
+13052,13,Hidalgo,052,San Agustín Tlaxiaca,21.24,7.03,41.34
+13053,13,Hidalgo,053,San Bartolo Tutotepec,51.62,34.28,56.85
+13054,13,Hidalgo,054,San Salvador,17.65,7.49,36.94
+13055,13,Hidalgo,055,Santiago de Anaya,21.67,9.29,38.63
+13056,13,Hidalgo,056,Santiago Tulantepec de Lugo Guerrero,19.05,6.82,38.55
+13057,13,Hidalgo,057,Singuilucan,30.73,12.09,47.13
+13058,13,Hidalgo,058,Tasquillo,26.75,11.62,34.08
+13059,13,Hidalgo,059,Tecozautla,28.72,14.06,44.79
+13060,13,Hidalgo,060,Tenango de Doria,41.51,23.38,48.87
+13061,13,Hidalgo,061,Tepeapulco,13.88,4.75,28.05
+13062,13,Hidalgo,062,Tepehuacán de Guerrero,47.17,29.77,60.19
+13063,13,Hidalgo,063,Tepeji del Río de Ocampo,17.42,5.26,36.9
+13064,13,Hidalgo,064,Tepetitlán,22.26,5.85,33.16
+13065,13,Hidalgo,065,Tetepango,21.34,8.22,34.46
+13066,13,Hidalgo,066,Villa de Tezontepec,18.4,6,46.26
+13067,13,Hidalgo,067,Tezontepec de Aldama,21.14,7.4,40.9
+13068,13,Hidalgo,068,Tianguistengo,45.71,27.67,52.19
+13069,13,Hidalgo,069,Tizayuca,10.49,2.56,38.67
+13070,13,Hidalgo,070,Tlahuelilpan,18.63,5.15,39.92
+13071,13,Hidalgo,071,Tlahuiltepa,45.84,19.71,38.52
+13072,13,Hidalgo,072,Tlanalapa,12.81,5.38,28.77
+13073,13,Hidalgo,073,Tlanchinol,36.73,21.08,57.35
+13074,13,Hidalgo,074,Tlaxcoapan,18.57,5.51,39.7
+13075,13,Hidalgo,075,Tolcayuca,17.52,5.74,41.12
+13076,13,Hidalgo,076,Tula de Allende,14.56,3.75,28.6
+13077,13,Hidalgo,077,Tulancingo de Bravo,18.01,7.22,36.29
+13078,13,Hidalgo,078,Xochiatipan,47.8,31.54,61.45
+13079,13,Hidalgo,079,Xochicoatlán,36.95,17.46,43.59
+13080,13,Hidalgo,080,Yahualica,48.73,35.01,56.44
+13081,13,Hidalgo,081,Zacualtipán de Ángeles,24.84,9.94,45.45
+13082,13,Hidalgo,082,Zapotlán de Juárez,17.7,5.39,38.32
+13083,13,Hidalgo,083,Zempoala,15.83,5.88,34.24
+13084,13,Hidalgo,084,Zimapán,25.48,9.6,36.89

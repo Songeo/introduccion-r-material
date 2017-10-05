@@ -217,7 +217,7 @@ ggplot(df.pew.prop, aes(x = ,
 
 
 
-# 6. Vuelos de NY ----
+# 5. Vuelos de NY ----
 
 # Para este ejercicio será necesario descargar el paquete `nycflights13`
 
@@ -265,3 +265,48 @@ df.arrdelay %>%
   geom_point(aes(size = ), alpha = .3) +
   geom_smooth(se = FALSE)
 
+
+
+# 6. Marginacion de entidades ----
+
+# Una misma unidad observacional está almacenada en múltiples tablas. 
+
+# Extraemos todos los archivos por entidad: "datos/conapo/"
+conapo.files.vec <- list.files()
+
+# 32 entidades 
+length(conapo.files.vec)
+
+# Iteración sobre el vector de archivos para extraerlos
+read.conapo.l <- lapply(, function(file){
+  path.read <- paste0("datos/conapo/", file)
+  df.file <- read_csv(path.read) %>% 
+    mutate(CVE_ENT = as.character(CVE_ENT))
+})
+
+# Características de elementos de la lista 
+lapply(read.conapo.l, head)
+sapply(read.conapo.l, names)
+
+# Union de las diferentes tablas `bind_rows()`
+df.conapo <-  %>% 
+  bind_rows()
+
+df.conapo %>% str
+
+# Calcula el promedio de cada indicador por entidad federativa
+tab <- df.conapo %>% 
+  group_by() %>% 
+  summarise()
+
+# Crea un gráfico de dispersión de proporción sin primaria (sin_primaria) vs 
+# proporción analfabeta (analfabeta) de la población.
+# Agrega una variable estética de tamaño (size) sobre la proporción de hogares
+# con hacinamiento (con_hacinamiento)
+
+ggplot(tab, aes(x = , 
+                y = )) + 
+  geom_point(aes(size = ),
+             alpha = .5, color = "blue")  + 
+  geom_text(aes(label = NOM_ENT), 
+            check_overlap = T)

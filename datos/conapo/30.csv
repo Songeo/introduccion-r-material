@@ -1,0 +1,213 @@
+CVE,CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,sin_primaria,analfabeta,con_hacinamiento
+30001,30,Veracruz de Ignacio de la Llave,001,Acajete,38.92,16.52,52.46
+30002,30,Veracruz de Ignacio de la Llave,002,Acatlán,35.51,10.72,50.14
+30003,30,Veracruz de Ignacio de la Llave,003,Acayucan,30.75,13.73,42.61
+30004,30,Veracruz de Ignacio de la Llave,004,Actopan,40.8,14.92,28.5
+30005,30,Veracruz de Ignacio de la Llave,005,Acula,42.72,19.83,35.44
+30006,30,Veracruz de Ignacio de la Llave,006,Acultzingo,36.52,14.39,58.95
+30007,30,Veracruz de Ignacio de la Llave,007,Camarón de Tejeda,47.15,11.64,40.51
+30008,30,Veracruz de Ignacio de la Llave,008,Alpatláhuac,50.74,25.86,54.66
+30009,30,Veracruz de Ignacio de la Llave,009,Alto Lucero de Gutiérrez Barrios,45.32,18.61,33.33
+30010,30,Veracruz de Ignacio de la Llave,010,Altotonga,43.88,18.18,59.57
+30011,30,Veracruz de Ignacio de la Llave,011,Alvarado,28.82,10.75,32.16
+30012,30,Veracruz de Ignacio de la Llave,012,Amatitlán,41.2,16.5,29.45
+30013,30,Veracruz de Ignacio de la Llave,013,Naranjos Amatlán,21.3,6.16,33.17
+30014,30,Veracruz de Ignacio de la Llave,014,Amatlán de los Reyes,30.75,9.38,41.33
+30015,30,Veracruz de Ignacio de la Llave,015,Angel R. Cabada,43.4,19.76,33.84
+30016,30,Veracruz de Ignacio de la Llave,016,La Antigua,24.42,5.77,33.59
+30017,30,Veracruz de Ignacio de la Llave,017,Apazapan,34.82,9.48,30.06
+30018,30,Veracruz de Ignacio de la Llave,018,Aquila,55.17,29.53,61.96
+30019,30,Veracruz de Ignacio de la Llave,019,Astacinga,58.65,39.06,59.56
+30020,30,Veracruz de Ignacio de la Llave,020,Atlahuilco,58.91,39.12,64.89
+30021,30,Veracruz de Ignacio de la Llave,021,Atoyac,28.85,8.58,40.51
+30022,30,Veracruz de Ignacio de la Llave,022,Atzacan,38.51,19.5,61.19
+30023,30,Veracruz de Ignacio de la Llave,023,Atzalan,48.18,20.5,55.29
+30024,30,Veracruz de Ignacio de la Llave,024,Tlaltetela,50.44,19.58,53.1
+30025,30,Veracruz de Ignacio de la Llave,025,Ayahualulco,61.82,35.56,67.93
+30026,30,Veracruz de Ignacio de la Llave,026,Banderilla,18.9,6.34,38.68
+30027,30,Veracruz de Ignacio de la Llave,027,Benito Juárez,43.33,25.12,42.23
+30028,30,Veracruz de Ignacio de la Llave,028,Boca del Río,13.39,3.3,26.81
+30029,30,Veracruz de Ignacio de la Llave,029,Calcahualco,56.61,30.83,66.83
+30030,30,Veracruz de Ignacio de la Llave,030,Camerino Z. Mendoza,21.51,10.56,40.1
+30031,30,Veracruz de Ignacio de la Llave,031,Carrillo Puerto,48.65,20.05,46.65
+30032,30,Veracruz de Ignacio de la Llave,032,Catemaco,37.11,17.06,39.89
+30033,30,Veracruz de Ignacio de la Llave,033,Cazones de Herrera,36.6,15.09,44.13
+30034,30,Veracruz de Ignacio de la Llave,034,Cerro Azul,18.82,6.06,33.27
+30035,30,Veracruz de Ignacio de la Llave,035,Citlaltépetl,39.85,19.58,40.91
+30036,30,Veracruz de Ignacio de la Llave,036,Coacoatzintla,40.08,19.05,56.87
+30037,30,Veracruz de Ignacio de la Llave,037,Coahuitlán,54.22,30.23,66.43
+30038,30,Veracruz de Ignacio de la Llave,038,Coatepec,22.94,7.48,35.86
+30039,30,Veracruz de Ignacio de la Llave,039,Coatzacoalcos,15.72,4.77,34.23
+30040,30,Veracruz de Ignacio de la Llave,040,Coatzintla,19.35,6.96,37.68
+30041,30,Veracruz de Ignacio de la Llave,041,Coetzala,45.26,19.48,54.87
+30042,30,Veracruz de Ignacio de la Llave,042,Colipa,44.06,18.91,40.97
+30043,30,Veracruz de Ignacio de la Llave,043,Comapa,51.06,19.9,49.14
+30044,30,Veracruz de Ignacio de la Llave,044,Córdoba,18.24,5.33,36.42
+30045,30,Veracruz de Ignacio de la Llave,045,Cosamaloapan de Carpio,28.15,10.85,31.24
+30046,30,Veracruz de Ignacio de la Llave,046,Cosautlán de Carvajal,49.68,17.41,53.81
+30047,30,Veracruz de Ignacio de la Llave,047,Coscomatepec,50.85,26.2,61.42
+30048,30,Veracruz de Ignacio de la Llave,048,Cosoleacaque,20.26,7.49,41.11
+30049,30,Veracruz de Ignacio de la Llave,049,Cotaxtla,41.23,15.88,41.63
+30050,30,Veracruz de Ignacio de la Llave,050,Coxquihui,44.39,28.17,55.83
+30051,30,Veracruz de Ignacio de la Llave,051,Coyutla,45.87,29.78,53.26
+30052,30,Veracruz de Ignacio de la Llave,052,Cuichapa,32.69,11.82,43.34
+30053,30,Veracruz de Ignacio de la Llave,053,Cuitláhuac,30.95,10.42,37.06
+30054,30,Veracruz de Ignacio de la Llave,054,Chacaltianguis,39.36,13.84,29.15
+30055,30,Veracruz de Ignacio de la Llave,055,Chalma,39.58,22.54,37.8
+30056,30,Veracruz de Ignacio de la Llave,056,Chiconamel,48.8,32.46,45.89
+30057,30,Veracruz de Ignacio de la Llave,057,Chiconquiaco,53.02,24.22,60.32
+30058,30,Veracruz de Ignacio de la Llave,058,Chicontepec,36,16.58,37.04
+30059,30,Veracruz de Ignacio de la Llave,059,Chinameca,31.89,12.1,40.87
+30060,30,Veracruz de Ignacio de la Llave,060,Chinampa de Gorostiza,34.67,15.23,49.91
+30061,30,Veracruz de Ignacio de la Llave,061,Las Choapas,40.48,14.96,48.87
+30062,30,Veracruz de Ignacio de la Llave,062,Chocamán,44.71,18.07,54.68
+30063,30,Veracruz de Ignacio de la Llave,063,Chontla,40.95,17.97,39.35
+30064,30,Veracruz de Ignacio de la Llave,064,Chumatlán,44.65,32.11,58.9
+30065,30,Veracruz de Ignacio de la Llave,065,Emiliano Zapata,24.88,5.85,33.11
+30066,30,Veracruz de Ignacio de la Llave,066,Espinal,39.06,20.32,43.62
+30067,30,Veracruz de Ignacio de la Llave,067,Filomeno Mata,61.69,39.8,82.18
+30068,30,Veracruz de Ignacio de la Llave,068,Fortín,18.89,5.44,34.13
+30069,30,Veracruz de Ignacio de la Llave,069,Gutiérrez Zamora,27.6,8.99,38.29
+30070,30,Veracruz de Ignacio de la Llave,070,Hidalgotitlán,39.51,13.33,48.89
+30071,30,Veracruz de Ignacio de la Llave,071,Huatusco,34.57,12.44,48.6
+30072,30,Veracruz de Ignacio de la Llave,072,Huayacocotla,41.1,19.72,48.09
+30073,30,Veracruz de Ignacio de la Llave,073,Hueyapan de Ocampo,42.59,22.17,38.13
+30074,30,Veracruz de Ignacio de la Llave,074,Huiloapan de Cuauhtémoc,21.74,7.87,45.1
+30075,30,Veracruz de Ignacio de la Llave,075,Ignacio de la Llave,43.72,21.22,35.62
+30076,30,Veracruz de Ignacio de la Llave,076,Ilamatlán,60.64,42.42,55.12
+30077,30,Veracruz de Ignacio de la Llave,077,Isla,37.91,14.01,42.26
+30078,30,Veracruz de Ignacio de la Llave,078,Ixcatepec,36.59,17.91,42.85
+30079,30,Veracruz de Ignacio de la Llave,079,Ixhuacán de los Reyes,52.94,22.31,60.53
+30080,30,Veracruz de Ignacio de la Llave,080,Ixhuatlán del Café,42.12,15.61,52.32
+30081,30,Veracruz de Ignacio de la Llave,081,Ixhuatlancillo,31.7,15.87,42.26
+30082,30,Veracruz de Ignacio de la Llave,082,Ixhuatlán del Sureste,29.39,9.34,44.1
+30083,30,Veracruz de Ignacio de la Llave,083,Ixhuatlán de Madero,44.45,24.68,45.41
+30084,30,Veracruz de Ignacio de la Llave,084,Ixmatlahuacan,42.88,21.27,32.68
+30085,30,Veracruz de Ignacio de la Llave,085,Ixtaczoquitlán,24.05,8.8,39.49
+30086,30,Veracruz de Ignacio de la Llave,086,Jalacingo,43.35,17.42,63.72
+30087,30,Veracruz de Ignacio de la Llave,087,Xalapa,13.27,3.95,28.83
+30088,30,Veracruz de Ignacio de la Llave,088,Jalcomulco,51.12,18,38.05
+30089,30,Veracruz de Ignacio de la Llave,089,Jáltipan,25.05,9.25,38.47
+30090,30,Veracruz de Ignacio de la Llave,090,Jamapa,34.85,11.39,39.32
+30091,30,Veracruz de Ignacio de la Llave,091,Jesús Carranza,40.8,15.35,44.57
+30092,30,Veracruz de Ignacio de la Llave,092,Xico,36.85,15.23,54.16
+30093,30,Veracruz de Ignacio de la Llave,093,Jilotepec,28.32,9.83,46.47
+30094,30,Veracruz de Ignacio de la Llave,094,Juan Rodríguez Clara,41.16,16.41,37.82
+30095,30,Veracruz de Ignacio de la Llave,095,Juchique de Ferrer,46.92,22.14,44.03
+30096,30,Veracruz de Ignacio de la Llave,096,Landero y Coss,41.08,14.04,38
+30097,30,Veracruz de Ignacio de la Llave,097,Lerdo de Tejada,26.13,9.86,26.82
+30098,30,Veracruz de Ignacio de la Llave,098,Magdalena,43.93,25,64.33
+30099,30,Veracruz de Ignacio de la Llave,099,Maltrata,36.95,16.42,55.07
+30100,30,Veracruz de Ignacio de la Llave,100,Manlio Fabio Altamirano,37.4,10.52,38.08
+30101,30,Veracruz de Ignacio de la Llave,101,Mariano Escobedo,30.08,13.17,43.73
+30102,30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,25.45,8.84,38.93
+30103,30,Veracruz de Ignacio de la Llave,103,Mecatlán,57.78,35.52,64.44
+30104,30,Veracruz de Ignacio de la Llave,104,Mecayapan,50.39,27.07,55.49
+30105,30,Veracruz de Ignacio de la Llave,105,Medellín de Bravo,20.63,5.95,30.93
+30106,30,Veracruz de Ignacio de la Llave,106,Miahuatlán,43.55,11.23,60.2
+30107,30,Veracruz de Ignacio de la Llave,107,Las Minas,49.42,26.26,67.7
+30108,30,Veracruz de Ignacio de la Llave,108,Minatitlán,21.24,7.11,36.93
+30109,30,Veracruz de Ignacio de la Llave,109,Misantla,31.63,10.82,42.82
+30110,30,Veracruz de Ignacio de la Llave,110,Mixtla de Altamirano,72.06,55.5,70.46
+30111,30,Veracruz de Ignacio de la Llave,111,Moloacán,32.19,10.15,43.37
+30112,30,Veracruz de Ignacio de la Llave,112,Naolinco,32.82,12.5,44.09
+30113,30,Veracruz de Ignacio de la Llave,113,Naranjal,37.64,15.43,56.97
+30114,30,Veracruz de Ignacio de la Llave,114,Nautla,33.39,10.33,31.51
+30115,30,Veracruz de Ignacio de la Llave,115,Nogales,21.72,7.96,40.88
+30116,30,Veracruz de Ignacio de la Llave,116,Oluta,29.75,12.05,40.69
+30117,30,Veracruz de Ignacio de la Llave,117,Omealca,38.64,14.4,43.42
+30118,30,Veracruz de Ignacio de la Llave,118,Orizaba,10.94,3.49,27.31
+30119,30,Veracruz de Ignacio de la Llave,119,Otatitlán,32.73,11.85,31.59
+30120,30,Veracruz de Ignacio de la Llave,120,Oteapan,33.94,11.59,52.36
+30121,30,Veracruz de Ignacio de la Llave,121,Ozuluama de Mascareñas,38.22,11.55,40.66
+30122,30,Veracruz de Ignacio de la Llave,122,Pajapan,53.91,31.13,55.18
+30123,30,Veracruz de Ignacio de la Llave,123,Pánuco,26.85,7.53,41.72
+30124,30,Veracruz de Ignacio de la Llave,124,Papantla,30.41,12.39,46.01
+30125,30,Veracruz de Ignacio de la Llave,125,Paso del Macho,40.3,11.76,44.89
+30126,30,Veracruz de Ignacio de la Llave,126,Paso de Ovejas,34.04,9.38,36.72
+30127,30,Veracruz de Ignacio de la Llave,127,La Perla,62.5,34.06,73.08
+30128,30,Veracruz de Ignacio de la Llave,128,Perote,28.76,9.81,51.78
+30129,30,Veracruz de Ignacio de la Llave,129,Platón Sánchez,40.7,20.78,40.75
+30130,30,Veracruz de Ignacio de la Llave,130,Playa Vicente,43.48,18.66,41.96
+30131,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,13.5,4.07,33.98
+30132,30,Veracruz de Ignacio de la Llave,132,Las Vigas de Ramírez,36.01,14.28,57.35
+30133,30,Veracruz de Ignacio de la Llave,133,Pueblo Viejo,20.7,5.28,46.41
+30134,30,Veracruz de Ignacio de la Llave,134,Puente Nacional,34.28,9.57,31.24
+30135,30,Veracruz de Ignacio de la Llave,135,Rafael Delgado,32.46,13.92,60.52
+30136,30,Veracruz de Ignacio de la Llave,136,Rafael Lucio,24.33,8.56,51.42
+30137,30,Veracruz de Ignacio de la Llave,137,Los Reyes,51.67,32.07,62.94
+30138,30,Veracruz de Ignacio de la Llave,138,Río Blanco,12,3.73,33.94
+30139,30,Veracruz de Ignacio de la Llave,139,Saltabarranca,42.96,18.17,33.63
+30140,30,Veracruz de Ignacio de la Llave,140,San Andrés Tenejapan,47.75,20.76,74.44
+30141,30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,41.15,19.76,41.07
+30142,30,Veracruz de Ignacio de la Llave,142,San Juan Evangelista,42.89,16.22,43.19
+30143,30,Veracruz de Ignacio de la Llave,143,Santiago Tuxtla,43.43,22.4,41.37
+30144,30,Veracruz de Ignacio de la Llave,144,Sayula de Alemán,38.54,17.34,48.49
+30145,30,Veracruz de Ignacio de la Llave,145,Soconusco,28.42,10.76,40.39
+30146,30,Veracruz de Ignacio de la Llave,146,Sochiapa,43.04,12.88,53.41
+30147,30,Veracruz de Ignacio de la Llave,147,Soledad Atzompa,57.6,36.31,74.4
+30148,30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,40.28,13.26,41.26
+30149,30,Veracruz de Ignacio de la Llave,149,Soteapan,56.81,37.37,61.35
+30150,30,Veracruz de Ignacio de la Llave,150,Tamalín,34.61,12.91,45.63
+30151,30,Veracruz de Ignacio de la Llave,151,Tamiahua,38.09,12.67,36.18
+30152,30,Veracruz de Ignacio de la Llave,152,Tampico Alto,35.12,8.88,40.92
+30153,30,Veracruz de Ignacio de la Llave,153,Tancoco,37.8,18.04,38.94
+30154,30,Veracruz de Ignacio de la Llave,154,Tantima,41.96,13.96,39.13
+30155,30,Veracruz de Ignacio de la Llave,155,Tantoyuca,34.56,14.16,48.71
+30156,30,Veracruz de Ignacio de la Llave,156,Tatatila,53.08,24.26,66.5
+30157,30,Veracruz de Ignacio de la Llave,157,Castillo de Teayo,33.23,15.3,41.88
+30158,30,Veracruz de Ignacio de la Llave,158,Tecolutla,33.2,11.87,40.88
+30159,30,Veracruz de Ignacio de la Llave,159,Tehuipango,66.35,56.55,83.24
+30160,30,Veracruz de Ignacio de la Llave,160,Álamo Temapache,31.04,11.22,43.91
+30161,30,Veracruz de Ignacio de la Llave,161,Tempoal,40.97,17.64,43.24
+30162,30,Veracruz de Ignacio de la Llave,162,Tenampa,46.33,19.31,46.46
+30163,30,Veracruz de Ignacio de la Llave,163,Tenochtitlán,48.45,18.33,54.3
+30164,30,Veracruz de Ignacio de la Llave,164,Teocelo,33.73,10.93,42.36
+30165,30,Veracruz de Ignacio de la Llave,165,Tepatlaxco,47.45,15.15,54.84
+30166,30,Veracruz de Ignacio de la Llave,166,Tepetlán,53.92,24.64,42.18
+30167,30,Veracruz de Ignacio de la Llave,167,Tepetzintla,34.87,13.12,48.37
+30168,30,Veracruz de Ignacio de la Llave,168,Tequila,54.66,30.15,66.17
+30169,30,Veracruz de Ignacio de la Llave,169,José Azueta,42.1,17.18,39.4
+30170,30,Veracruz de Ignacio de la Llave,170,Texcatepec,58.03,39.91,58.03
+30171,30,Veracruz de Ignacio de la Llave,171,Texhuacán,49.6,30.4,62
+30172,30,Veracruz de Ignacio de la Llave,172,Texistepec,38.16,15.35,46.12
+30173,30,Veracruz de Ignacio de la Llave,173,Tezonapa,42.97,17.3,49.2
+30174,30,Veracruz de Ignacio de la Llave,174,Tierra Blanca,30.76,11.44,38.6
+30175,30,Veracruz de Ignacio de la Llave,175,Tihuatlán,27.75,10.59,47.66
+30176,30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,36.76,16.34,36.91
+30177,30,Veracruz de Ignacio de la Llave,177,Tlacolulan,42.48,17.35,63.75
+30178,30,Veracruz de Ignacio de la Llave,178,Tlacotalpan,33.82,14.55,33.42
+30179,30,Veracruz de Ignacio de la Llave,179,Tlacotepec de Mejía,35.96,10.16,44.7
+30180,30,Veracruz de Ignacio de la Llave,180,Tlachichilco,49.73,29.17,44.25
+30181,30,Veracruz de Ignacio de la Llave,181,Tlalixcoyan,39.25,14.69,36.17
+30182,30,Veracruz de Ignacio de la Llave,182,Tlalnelhuayocan,30.79,11.79,57.6
+30183,30,Veracruz de Ignacio de la Llave,183,Tlapacoyan,32.99,12.64,50.34
+30184,30,Veracruz de Ignacio de la Llave,184,Tlaquilpa,56.44,35.92,54.7
+30185,30,Veracruz de Ignacio de la Llave,185,Tlilapan,36.56,16.57,60.3
+30186,30,Veracruz de Ignacio de la Llave,186,Tomatlán,31.56,11.21,34.44
+30187,30,Veracruz de Ignacio de la Llave,187,Tonayán,45.41,16.3,65.78
+30188,30,Veracruz de Ignacio de la Llave,188,Totutla,44.06,17.17,48.09
+30189,30,Veracruz de Ignacio de la Llave,189,Tuxpan,18.71,5.52,35.77
+30190,30,Veracruz de Ignacio de la Llave,190,Tuxtilla,39.5,19.62,21.71
+30191,30,Veracruz de Ignacio de la Llave,191,Ursulo Galván,25.53,6.53,25.49
+30192,30,Veracruz de Ignacio de la Llave,192,Vega de Alatorre,35.73,11.61,36.72
+30193,30,Veracruz de Ignacio de la Llave,193,Veracruz,13.1,3.22,29.95
+30194,30,Veracruz de Ignacio de la Llave,194,Villa Aldama,40.58,14.72,64.09
+30195,30,Veracruz de Ignacio de la Llave,195,Xoxocotla,50,30.23,68.77
+30196,30,Veracruz de Ignacio de la Llave,196,Yanga,31.99,9.44,32.37
+30197,30,Veracruz de Ignacio de la Llave,197,Yecuatla,45.4,19.79,44.57
+30198,30,Veracruz de Ignacio de la Llave,198,Zacualpan,51.75,27.96,48.29
+30199,30,Veracruz de Ignacio de la Llave,199,Zaragoza,37.17,15.02,61.1
+30200,30,Veracruz de Ignacio de la Llave,200,Zentla,41.36,10.92,39
+30201,30,Veracruz de Ignacio de la Llave,201,Zongolica,47.05,27.04,58.04
+30202,30,Veracruz de Ignacio de la Llave,202,Zontecomatlán de López y Fuentes,53.32,32.1,61.87
+30203,30,Veracruz de Ignacio de la Llave,203,Zozocolco de Hidalgo,48.93,28.2,60.62
+30204,30,Veracruz de Ignacio de la Llave,204,Agua Dulce,21.98,6.95,37.74
+30205,30,Veracruz de Ignacio de la Llave,205,El Higo,28.95,10.11,37.55
+30206,30,Veracruz de Ignacio de la Llave,206,Nanchital de Lázaro Cárdenas del Río,15.94,3.71,32.33
+30207,30,Veracruz de Ignacio de la Llave,207,Tres Valles,33.74,13.27,38.54
+30208,30,Veracruz de Ignacio de la Llave,208,Carlos A. Carrillo,31.17,11.33,27.17
+30209,30,Veracruz de Ignacio de la Llave,209,Tatahuicapan de Juárez,48.98,28.25,54.8
+30210,30,Veracruz de Ignacio de la Llave,210,Uxpanapa,43.53,17.82,54.64
+30211,30,Veracruz de Ignacio de la Llave,211,San Rafael,28.94,9.93,35.4
+30212,30,Veracruz de Ignacio de la Llave,212,Santiago Sochiapan,51.02,26.03,42.49

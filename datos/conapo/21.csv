@@ -1,0 +1,218 @@
+CVE,CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,sin_primaria,analfabeta,con_hacinamiento
+21001,21,Puebla,001,Acajete,32.69,13.2,61.37
+21002,21,Puebla,002,Acateno,37.77,14.94,50.73
+21003,21,Puebla,003,Acatlán,30,12.03,43.14
+21004,21,Puebla,004,Acatzingo,30.57,10.99,62.26
+21005,21,Puebla,005,Acteopan,48.77,25.29,52.76
+21006,21,Puebla,006,Ahuacatlán,52.41,36.87,61.71
+21007,21,Puebla,007,Ahuatlán,49.04,21.9,48.37
+21008,21,Puebla,008,Ahuazotepec,26.32,10.34,49.69
+21009,21,Puebla,009,Ahuehuetitla,44.5,18.17,40.04
+21010,21,Puebla,010,Ajalpan,43.42,26.31,66.99
+21011,21,Puebla,011,Albino Zertuche,42.62,13.62,45.09
+21012,21,Puebla,012,Aljojuca,36.53,13.61,48.69
+21013,21,Puebla,013,Altepexi,39.18,16.98,55.84
+21014,21,Puebla,014,Amixtlán,54.05,34.89,51.27
+21015,21,Puebla,015,Amozoc,19.81,6.89,52.43
+21016,21,Puebla,016,Aquixtla,39.9,17.81,47.28
+21017,21,Puebla,017,Atempan,35.04,18.53,63.72
+21018,21,Puebla,018,Atexcal,40.27,13.43,46.89
+21019,21,Puebla,019,Atlixco,22.66,7.4,41.02
+21020,21,Puebla,020,Atoyatempan,31.16,8.44,58.69
+21021,21,Puebla,021,Atzala,31.46,9.41,41.72
+21022,21,Puebla,022,Atzitzihuacán,40,16.62,54.93
+21023,21,Puebla,023,Atzitzintla,46.71,19.66,68.44
+21024,21,Puebla,024,Axutla,49.5,24.05,35.94
+21025,21,Puebla,025,Ayotoxco de Guerrero,34.58,16.27,55.3
+21026,21,Puebla,026,Calpan,39.78,17.27,50.41
+21027,21,Puebla,027,Caltepec,47.37,15.99,42.35
+21028,21,Puebla,028,Camocuautla,57.66,32.47,58.31
+21029,21,Puebla,029,Caxhuacan,40.86,27.13,52.47
+21030,21,Puebla,030,Coatepec,48.22,29.21,45.41
+21031,21,Puebla,031,Coatzingo,51.61,21.84,36.14
+21032,21,Puebla,032,Cohetzala,47.69,21.98,39.34
+21033,21,Puebla,033,Cohuecan,27.56,8.54,56.09
+21034,21,Puebla,034,Coronango,21.69,5.7,51.46
+21035,21,Puebla,035,Coxcatlán,28.72,14.31,50.08
+21036,21,Puebla,036,Coyomeapan,53.83,36.77,64.79
+21037,21,Puebla,037,Coyotepec,44.28,19.81,33.53
+21038,21,Puebla,038,Cuapiaxtla de Madero,25.05,6.53,60.9
+21039,21,Puebla,039,Cuautempan,44.24,20.77,50.92
+21040,21,Puebla,040,Cuautinchán,32.13,11.26,60.83
+21041,21,Puebla,041,Cuautlancingo,11.09,3.44,35.85
+21042,21,Puebla,042,Cuayuca de Andrade,42.8,19.38,39.19
+21043,21,Puebla,043,Cuetzalan del Progreso,38.09,20.04,63.39
+21044,21,Puebla,044,Cuyoaco,30.63,11.54,55.72
+21045,21,Puebla,045,Chalchicomula de Sesma,30.71,12.33,50.65
+21046,21,Puebla,046,Chapulco,37.44,10.75,63.4
+21047,21,Puebla,047,Chiautla,32.98,16.42,41.54
+21048,21,Puebla,048,Chiautzingo,22.57,5.38,49.74
+21049,21,Puebla,049,Chiconcuautla,58.98,38.22,69.7
+21050,21,Puebla,050,Chichiquila,55.42,27.66,71.7
+21051,21,Puebla,051,Chietla,33.52,13.89,38.22
+21052,21,Puebla,052,Chigmecatitlán,51.94,21.92,43.37
+21053,21,Puebla,053,Chignahuapan,30.86,12.84,51.59
+21054,21,Puebla,054,Chignautla,37.25,15.38,63.54
+21055,21,Puebla,055,Chila,38.84,17,49.14
+21056,21,Puebla,056,Chila de la Sal,54.85,19.06,39.94
+21057,21,Puebla,057,Honey,43.8,23.08,56.42
+21058,21,Puebla,058,Chilchotla,56.33,30.54,71.57
+21059,21,Puebla,059,Chinantla,39.57,15.38,39.53
+21060,21,Puebla,060,Domingo Arenas,34.93,8.51,56.64
+21061,21,Puebla,061,Eloxochitlán,56.03,34.57,71.18
+21062,21,Puebla,062,Epatlán,39.45,14.18,40.56
+21063,21,Puebla,063,Esperanza,30.36,12.12,55.47
+21064,21,Puebla,064,Francisco Z. Mena,35.12,14.18,43.36
+21065,21,Puebla,065,General Felipe Ángeles,38.96,17.21,58.44
+21066,21,Puebla,066,Guadalupe,49.18,24.15,43.75
+21067,21,Puebla,067,Guadalupe Victoria,37.43,15.08,52.89
+21068,21,Puebla,068,Hermenegildo Galeana,53.48,34.56,59.01
+21069,21,Puebla,069,Huaquechula,40.09,12.46,50.6
+21070,21,Puebla,070,Huatlatlauca,49.53,29.53,54.29
+21071,21,Puebla,071,Huauchinango,27.38,11.92,50.37
+21072,21,Puebla,072,Huehuetla,56.95,36.36,64.28
+21073,21,Puebla,073,Huehuetlán el Chico,36.84,18.46,42.3
+21074,21,Puebla,074,Huejotzingo,17.9,5.16,48.95
+21075,21,Puebla,075,Hueyapan,31.17,14.69,66.3
+21076,21,Puebla,076,Hueytamalco,40.61,16.11,55.01
+21077,21,Puebla,077,Hueytlalpan,55.71,35.32,58.6
+21078,21,Puebla,078,Huitzilan de Serdán,57.38,32.15,66.74
+21079,21,Puebla,079,Huitziltepec,24.42,4.71,51.11
+21080,21,Puebla,080,Atlequizayan,50.03,30.1,58.54
+21081,21,Puebla,081,Ixcamilpa de Guerrero,46.54,25.37,44.7
+21082,21,Puebla,082,Ixcaquixtla,26.76,10.68,47.14
+21083,21,Puebla,083,Ixtacamaxtitlán,40.63,19.63,54.99
+21084,21,Puebla,084,Ixtepec,53.35,33.77,63.12
+21085,21,Puebla,085,Izúcar de Matamoros,28.18,11.22,40.63
+21086,21,Puebla,086,Jalpan,41.1,17.6,58.14
+21087,21,Puebla,087,Jolalpan,45.08,20.66,52.8
+21088,21,Puebla,088,Jonotla,41.85,20.13,52.77
+21089,21,Puebla,089,Jopala,51.79,31.07,57.36
+21090,21,Puebla,090,Juan C. Bonilla,19.49,4.72,48.59
+21091,21,Puebla,091,Juan Galindo,21.83,9.62,35.92
+21092,21,Puebla,092,Juan N. Méndez,46.25,21.2,54.53
+21093,21,Puebla,093,Lafragua,45.06,16.75,54.65
+21094,21,Puebla,094,Libres,25.79,9.43,54.56
+21095,21,Puebla,095,La Magdalena Tlatlauquitepec,26.15,13.51,56.67
+21096,21,Puebla,096,Mazapiltepec de Juárez,28.68,7.93,54.26
+21097,21,Puebla,097,Mixtla,20.09,4.32,49.79
+21098,21,Puebla,098,Molcaxac,34.44,14.67,49.58
+21099,21,Puebla,099,Cañada Morelos,41.91,17.63,56.53
+21100,21,Puebla,100,Naupan,43.33,24.55,67.35
+21101,21,Puebla,101,Nauzontla,41.15,13.84,52.02
+21102,21,Puebla,102,Nealtican,31.93,8.34,55.25
+21103,21,Puebla,103,Nicolás Bravo,40.96,13.28,60.11
+21104,21,Puebla,104,Nopalucan,30.87,11.29,60.65
+21105,21,Puebla,105,Ocotepec,34.82,13.14,46.83
+21106,21,Puebla,106,Ocoyucan,38.02,15.83,61.13
+21107,21,Puebla,107,Olintla,62.15,40.16,65.53
+21108,21,Puebla,108,Oriental,28.12,12.07,54.72
+21109,21,Puebla,109,Pahuatlán,44.16,24.01,58.32
+21110,21,Puebla,110,Palmar de Bravo,42.42,19.36,63.87
+21111,21,Puebla,111,Pantepec,44.29,25.66,47.74
+21112,21,Puebla,112,Petlalcingo,44.05,22.43,45.71
+21113,21,Puebla,113,Piaxtla,48.86,21.48,32.67
+21114,21,Puebla,114,Puebla,10.73,3.5,29.15
+21115,21,Puebla,115,Quecholac,43.83,19.14,61.77
+21116,21,Puebla,116,Quimixtlán,54.3,26.02,67.62
+21117,21,Puebla,117,Rafael Lara Grajales,23.23,7.68,48.26
+21118,21,Puebla,118,Los Reyes de Juárez,28.4,8.04,60.47
+21119,21,Puebla,119,San Andrés Cholula,12.65,3.7,29.3
+21120,21,Puebla,120,San Antonio Cañada,51.72,27.05,69.76
+21121,21,Puebla,121,San Diego la Mesa Tochimiltzingo,53.47,24.19,51.44
+21122,21,Puebla,122,San Felipe Teotlalcingo,22.46,4.23,49.61
+21123,21,Puebla,123,San Felipe Tepatlán,54.71,34.03,58.27
+21124,21,Puebla,124,San Gabriel Chilac,40.07,20.61,57.99
+21125,21,Puebla,125,San Gregorio Atzompa,17.96,3.46,34.15
+21126,21,Puebla,126,San Jerónimo Tecuanipan,26.58,6.73,60.99
+21127,21,Puebla,127,San Jerónimo Xayacatlán,44.11,18.56,40.38
+21128,21,Puebla,128,San José Chiapa,33.09,11.7,53.71
+21129,21,Puebla,129,San José Miahuatlán,43.81,20.03,50.68
+21130,21,Puebla,130,San Juan Atenco,37.64,12.02,45.61
+21131,21,Puebla,131,San Juan Atzompa,24.73,9.56,63.11
+21132,21,Puebla,132,San Martín Texmelucan,14.97,4.51,40.44
+21133,21,Puebla,133,San Martín Totoltepec,40.55,14.52,38.51
+21134,21,Puebla,134,San Matías Tlalancaleca,23.43,7.46,46.34
+21135,21,Puebla,135,San Miguel Ixitlán,50.11,12.78,39.42
+21136,21,Puebla,136,San Miguel Xoxtla,14.48,3.33,42.94
+21137,21,Puebla,137,San Nicolás Buenos Aires,42.09,18.28,56.63
+21138,21,Puebla,138,San Nicolás de los Ranchos,32.11,12.1,60.34
+21139,21,Puebla,139,San Pablo Anicano,36.17,14.49,47.12
+21140,21,Puebla,140,San Pedro Cholula,14.14,4.1,34.26
+21141,21,Puebla,141,San Pedro Yeloixtlahuaca,38.8,15.08,42.94
+21142,21,Puebla,142,San Salvador el Seco,34.28,14.89,55.9
+21143,21,Puebla,143,San Salvador el Verde,17.67,5.04,52.65
+21144,21,Puebla,144,San Salvador Huixcolotla,26.6,7.63,51.31
+21145,21,Puebla,145,San Sebastián Tlacotepec,50.66,25.3,65.9
+21146,21,Puebla,146,Santa Catarina Tlaltempan,58.28,33.94,33.79
+21147,21,Puebla,147,Santa Inés Ahuatempan,42.6,21.98,42.84
+21148,21,Puebla,148,Santa Isabel Cholula,36.72,9.73,59.44
+21149,21,Puebla,149,Santiago Miahuatlán,32.4,11.54,59.39
+21150,21,Puebla,150,Huehuetlán el Grande,46.31,23.96,51.94
+21151,21,Puebla,151,Santo Tomás Hueyotlipan,20.26,5.63,49.63
+21152,21,Puebla,152,Soltepec,38.71,10.38,53.92
+21153,21,Puebla,153,Tecali de Herrera,22.93,5.7,53.27
+21154,21,Puebla,154,Tecamachalco,25.68,8.12,54.92
+21155,21,Puebla,155,Tecomatlán,35.48,15.27,35.23
+21156,21,Puebla,156,Tehuacán,20.92,7.38,43.65
+21157,21,Puebla,157,Tehuitzingo,43.16,19.15,40.26
+21158,21,Puebla,158,Tenampulco,35.97,16.66,41.64
+21159,21,Puebla,159,Teopantlán,62.71,38.71,46.26
+21160,21,Puebla,160,Teotlalco,37.27,14.43,39.65
+21161,21,Puebla,161,Tepanco de López,33.69,11.15,49.78
+21162,21,Puebla,162,Tepango de Rodríguez,53.51,37.35,56.47
+21163,21,Puebla,163,Tepatlaxco de Hidalgo,30.44,11.14,56.32
+21164,21,Puebla,164,Tepeaca,22.82,7.4,53.81
+21165,21,Puebla,165,Tepemaxalco,53.69,24.41,57.63
+21166,21,Puebla,166,Tepeojuma,44.1,18.32,41.01
+21167,21,Puebla,167,Tepetzintla,51.94,36.46,61.85
+21168,21,Puebla,168,Tepexco,45.65,19.09,57.49
+21169,21,Puebla,169,Tepexi de Rodríguez,34.31,13.3,52.48
+21170,21,Puebla,170,Tepeyahualco,36.97,14.61,54.91
+21171,21,Puebla,171,Tepeyahualco de Cuauhtémoc,21.64,5.09,53.21
+21172,21,Puebla,172,Tetela de Ocampo,38.88,17.61,50
+21173,21,Puebla,173,Teteles de Avila Castillo,17.44,6.42,41.12
+21174,21,Puebla,174,Teziutlán,19.25,6.84,43.81
+21175,21,Puebla,175,Tianguismanalco,31.8,10.25,60.66
+21176,21,Puebla,176,Tilapa,35.32,11.42,43.42
+21177,21,Puebla,177,Tlacotepec de Benito Juárez,42.47,18.09,60.86
+21178,21,Puebla,178,Tlacuilotepec,44.87,21.02,56.37
+21179,21,Puebla,179,Tlachichuca,36.01,15.08,59
+21180,21,Puebla,180,Tlahuapan,23.23,8.59,54.96
+21181,21,Puebla,181,Tlaltenango,25.85,5.95,51.66
+21182,21,Puebla,182,Tlanepantla,21.16,6.08,62.05
+21183,21,Puebla,183,Tlaola,53.08,29.99,63.91
+21184,21,Puebla,184,Tlapacoya,50.59,25.89,57.54
+21185,21,Puebla,185,Tlapanalá,41.54,11.01,44.85
+21186,21,Puebla,186,Tlatlauquitepec,30.08,13.56,50.73
+21187,21,Puebla,187,Tlaxco,45.07,18.92,53.05
+21188,21,Puebla,188,Tochimilco,36.58,12.18,54.79
+21189,21,Puebla,189,Tochtepec,28.24,8.62,56.26
+21190,21,Puebla,190,Totoltepec de Guerrero,32.79,8,35.99
+21191,21,Puebla,191,Tulcingo,47.23,21.99,41.83
+21192,21,Puebla,192,Tuzamapan de Galeana,36.62,15.54,57.36
+21193,21,Puebla,193,Tzicatlacoyan,38.51,12.82,55.62
+21194,21,Puebla,194,Venustiano Carranza,31.92,14.9,48.79
+21195,21,Puebla,195,Vicente Guerrero,54.89,35.2,67.08
+21196,21,Puebla,196,Xayacatlán de Bravo,39.73,20.12,34.11
+21197,21,Puebla,197,Xicotepec,29.36,12.52,55.37
+21198,21,Puebla,198,Xicotlán,41.84,18.09,46
+21199,21,Puebla,199,Xiutetelco,40.04,20.65,63.78
+21200,21,Puebla,200,Xochiapulco,40.39,12.23,47.61
+21201,21,Puebla,201,Xochiltepec,49.13,15.45,50.55
+21202,21,Puebla,202,Xochitlán de Vicente Suárez,44.55,25.32,62.73
+21203,21,Puebla,203,Xochitlán Todos Santos,42.79,18.97,55.22
+21204,21,Puebla,204,Yaonáhuac,21.95,10.52,58.69
+21205,21,Puebla,205,Yehualtepec,35.83,11.53,57.99
+21206,21,Puebla,206,Zacapala,47.4,18.78,43.62
+21207,21,Puebla,207,Zacapoaxtla,32.41,14.87,55.13
+21208,21,Puebla,208,Zacatlán,26.87,12.41,48.75
+21209,21,Puebla,209,Zapotitlán,38.62,13.85,50.41
+21210,21,Puebla,210,Zapotitlán de Méndez,38.45,19.87,54.64
+21211,21,Puebla,211,Zaragoza,19.03,7.29,43.47
+21212,21,Puebla,212,Zautla,36.51,19.13,62.16
+21213,21,Puebla,213,Zihuateutla,43.51,20.34,57.35
+21214,21,Puebla,214,Zinacatepec,39.44,17.56,53.74
+21215,21,Puebla,215,Zongozotla,42.16,27.23,42.87
+21216,21,Puebla,216,Zoquiapan,50.61,27.18,50.49
+21217,21,Puebla,217,Zoquitlán,59.05,42.16,60.83
